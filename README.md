@@ -11,3 +11,16 @@ Este repositório contém o projeto desenvolvido durante o Módulo 3 do curso de
 # Tecnologias Utilizadas
 - Python: Linguagem de programação usada para desenvolver a aplicação.
 - Manipulação de Arquivos: Para armazenar as tarefas persistentes entre execuções.
+
+# Aprendizado
+- Neste módulo, foram explorados conceitos como:
+
+# Estrutura de dados (listas).
+- Manipulação de arquivos.
+- Funções e modularização.
+- Controle de fluxo (loops e condicionais).
+  
+# Próximos Passos
+- Melhorar a interface da aplicação.
+- Adicionar funcionalidade para editar tarefas existentes.
+- Integrar o projeto com um banco de dados.
